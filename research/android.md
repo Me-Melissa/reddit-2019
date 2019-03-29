@@ -1,1 +1,3 @@
 Code potentially relating to April Fools 2019 was first found in the second build of 3.23.0.
+
+In com.reddit.aprilfools2019.AprilFools2019, there's a field called TRANSACTIONS, which is a list of strings formatted to look like some kind of cryptocurrency transactions.  All of the numbers involved in these transactions are whole numbers, except for "3.14".  All of the numbers are 26 or less.  If you treat every pi entry as a space, and then use the numbers as an alphanumeric code, but such that A=2, B=3, C=4, ..., Y=26, Z=27, then you get the message "A STORY IS A SEQUENCE OF CHOICES CHOOSE WISELY".
